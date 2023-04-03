@@ -1,3 +1,0 @@
-<map name="image-map">
-    <area target="" alt="Goa" title="Goa" href="" coords="157,602,172,611,169,627" shape="poly">
-</map>
